@@ -16,7 +16,7 @@ print(dec(7,2))
 
 
 # 3 commit
-def ayirish(a,b):
+def sss(a,b):
     return a-b
 
-print(ayirish(17,5))
+print(sss(17,5))
